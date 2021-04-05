@@ -23,3 +23,5 @@ For algorithms, we mainly plan on using classification/clustering techniques to 
 ## References
 
 Hallmark, E. (2018, August 27). A large Tennis dataset for ATP And itf betting. Retrieved February 19, 2021, from https://www.kaggle.com/ehallmar/a-large-tennis-dataset-for-atp-and-itf-betting
+
+Sipko, M. (2015, June 15). Machine Learning for the Prediction of Professional Tennis Matches. Retrieved April 05, 2021, from https://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/m.sipko.pdf
