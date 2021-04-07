@@ -22,9 +22,11 @@ For algorithms, we mainly plan on using classification/clustering techniques to 
 
 ## References
 
-Barnett, T., &amp; Clarke, S. R. (2005, April). Combining player statistics to predict outcomes of tennis matches. Retrieved April 05, 2021, from https://www.researchgate.net/profile/Stephen-Clarke-11/publication/228614352_Combining_player_statistics_to_predict_outcomes_of_tennis_matches/links/544007600cf2be1758cff789/Combining-player-statistics-to-predict-outcomes-of-tennis-matches.pdf?origin=publication_detail
+[1] Barnett, T., &amp; Clarke, S. R. (2005, April). Combining player statistics to predict outcomes of tennis matches. Retrieved April 05, 2021, from https://www.researchgate.net/profile/Stephen-Clarke-11/publication/228614352_Combining_player_statistics_to_predict_outcomes_of_tennis_matches/links/544007600cf2be1758cff789/Combining-player-statistics-to-predict-outcomes-of-tennis-matches.pdf?origin=publication_detail
 
-Hallmark, E. (2018, August 27). A large Tennis dataset for ATP And itf betting. Retrieved February 19, 2021, from https://www.kaggle.com/ehallmar/a-large-tennis-dataset-for-atp-and-itf-betting
+[2] Hallmark, E. (2018, August 27). A large Tennis dataset for ATP And itf betting. Retrieved February 19, 2021, from https://www.kaggle.com/ehallmar/a-large-tennis-dataset-for-atp-and-itf-betting
 
-Sipko, M. (2015, June 15). Machine Learning for the Prediction of Professional Tennis Matches. Retrieved April 05, 2021, from https://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/m.sipko.pdf
+[3] Madurska, A. M. (2012, June 17). A Set-by-Set Analysis Method For Predicting The Outcome Of Professional Singles Tennis Matches. Retrieved April 07, 2021, from https://www.doc.ic.ac.uk/teaching/distinguished-projects/2012/a.madurska%20.pdf
+
+[4] Sipko, M. (2015, June 15). Machine Learning for the Prediction of Professional Tennis Matches. Retrieved April 05, 2021, from https://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/m.sipko.pdf
 
