@@ -69,6 +69,7 @@ Here are the independent/dependent variables for the second LR:
 
 Here are the results for the second Logistic Regression: 
  
+![image](https://user-images.githubusercontent.com/47062063/115101969-268ffe80-9f16-11eb-9dd4-2153d8a0ca38.png)
 
 
 ## Discussion
