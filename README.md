@@ -57,6 +57,7 @@ For the first Logistic Regression, since we are wishing to make predictions by c
 
 
 Here are the results for the first Logistic Regression: 
+![image](https://user-images.githubusercontent.com/47062063/115101027-0577df80-9f0f-11eb-8c95-46b815a276aa.png)
 
 
 
